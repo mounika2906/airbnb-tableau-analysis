@@ -1,5 +1,6 @@
 # airbnb-tableau-analysis
 Interactive Tableau dashboard analyzing Airbnb listings data to explore pricing trends, listing types, availability, and neighborhood insights. Visualizes key metrics to help understand the Airbnb market dynamics.
+dashboard link:- https://public.tableau.com/app/profile/mounika.avadutha/viz/airbnb2_17377048912820/Dashboard2
 
 ![imag alt](https://github.com/mounika2906/airbnb-tableau-analysis/blob/1daf046c5b222235d38b7244eae26f06b22cdf42/airbnb%20listings.png)
 
