@@ -7,7 +7,7 @@ Interactive Tableau dashboard analyzing Airbnb listings data to explore pricing 
 3. [document link](https://docs.google.com/document/d/1GTTPGkR-hIDwQEiyZyIz_TCYMshQJpZ45SLXEHojiC0/edit?usp=sharing)
 
 
-![imag alt](https://github.com/mounika2906/airbnb-tableau-analysis/blob/1daf046c5b222235d38b7244eae26f06b22cdf42/airbnb%20listings.png)
+![imag alt](https://github.com/mounika2906/airbnb-tableau-analysis/blob/1daf046c5b222235d38b7244eae26f06b22cdf42/airbnb%20listings.png) 
 
 ## Airbnb Listings Dashboard – Chicago vs New Orleans
 
